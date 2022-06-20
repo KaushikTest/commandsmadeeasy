@@ -27,4 +27,5 @@ jobs:
 
       # Runs the command
       - name: Run a one-line script
+        shell: bash
         run: sh command.sh
