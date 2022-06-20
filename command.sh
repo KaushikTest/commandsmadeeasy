@@ -12,3 +12,4 @@ touch samplefile.txt #To create a file
 file samplefile.txt #To view the file details
 rm samplefile.txt #To delete the file
 cat textsample.txt #To view the file contents
+less textsample.txt #To view the file contents
